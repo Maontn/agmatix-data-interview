@@ -1,1 +1,1 @@
-# agmatix-data-interview
+# growerstech-data-interview
